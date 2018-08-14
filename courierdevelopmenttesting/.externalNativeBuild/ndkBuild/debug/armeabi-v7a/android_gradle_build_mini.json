@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Android.mk",
+    "/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/ak/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Android.mk NDK_APPLICATION_MK\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/lib APP_CPPFLAGS+\u003d-s -fdata-sections -ffunction-sections -fvisibility\u003dhidden clean"
+  ],
+  "libraries": {
+    "wbc-debug-armeabi-v7a": {
+      "artifactName": "wbc",
+      "buildCommand": "/Users/ak/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Android.mk NDK_APPLICATION_MK\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/lib APP_CPPFLAGS+\u003d-s -fdata-sections -ffunction-sections -fvisibility\u003dhidden /Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libwbc.a",
+      "abi": "armeabi-v7a",
+      "output": "/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libwbc.a"
+    },
+    "jsoncpp-debug-armeabi-v7a": {
+      "artifactName": "jsoncpp",
+      "buildCommand": "/Users/ak/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Android.mk NDK_APPLICATION_MK\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/lib APP_CPPFLAGS+\u003d-s -fdata-sections -ffunction-sections -fvisibility\u003dhidden /Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libjsoncpp.a",
+      "abi": "armeabi-v7a",
+      "output": "/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libjsoncpp.a"
+    },
+    "native-lib-debug-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/ak/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Android.mk NDK_APPLICATION_MK\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/lib APP_CPPFLAGS+\u003d-s -fdata-sections -ffunction-sections -fvisibility\u003dhidden /Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libnative-lib.so",
+      "abi": "armeabi-v7a",
+      "output": "/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libnative-lib.so"
+    },
+    "md5-debug-armeabi-v7a": {
+      "artifactName": "md5",
+      "buildCommand": "/Users/ak/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Android.mk NDK_APPLICATION_MK\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/src/main/cpp/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/lib APP_CPPFLAGS+\u003d-s -fdata-sections -ffunction-sections -fvisibility\u003dhidden /Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libmd5.a",
+      "abi": "armeabi-v7a",
+      "output": "/Users/ak/Android/SDKDevelopmentTesting/courierdevelopmenttesting/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libmd5.a"
+    }
+  }
+}
