@@ -18,8 +18,6 @@ namespace Utility {
     jboolean activate(JNIEnv *env, jobject obj, jstring jUserid);
     jboolean isActivated(JNIEnv *env, jobject obj);
     Json::Value httpRequest(const char *url, std::string method, std::string payload, std::string headerStr = "");
-    void txTracking(JNIEnv *env, jobject obj);
-    bool isRooted(JNIEnv *env);
     jstring getSdkToken(JNIEnv *env, jobject obj);
     jstring getUserId(JNIEnv *env, jobject obj);
 }

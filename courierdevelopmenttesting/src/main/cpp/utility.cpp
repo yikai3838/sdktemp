@@ -647,7 +647,7 @@ namespace Utility {
         LOGD("userid", "%s", userId.c_str());
 
         //string payload = {"deviceID": "xxx", "deviceModel": "xxx", "osVersion": "xxx", "sdkName": "", "sdkVersion": "", "appID": "", "userID": "xxx"};
-        string payload = generateString(10) + uuidStr + generateString(12) + model + generateString(43) + osVersion + generateString(45) + generateString(50) + generateString(46) + generateString(51) + generateString(47) + getAppId() + generateString(13) + userId + generateString(14);
+        string payload = generateString(10) + uuidStr + generateString(12) + model + generateString(43) + osVersion + generateString(45) + generateString(50) + generateString(46) + generateString(51) + generateString(47) + packageName + generateString(13) + userId + generateString(14);
         LOGD("payload", "%s", payload.c_str());
         // Send request
 

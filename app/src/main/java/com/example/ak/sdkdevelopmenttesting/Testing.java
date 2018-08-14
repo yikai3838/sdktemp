@@ -1,14 +1,6 @@
 package com.example.ak.sdkdevelopmenttesting;
 
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
-import android.widget.Button;
-
-import com.example.courierdevelopmenttesting.ActivationCallback;
-import com.example.courierdevelopmenttesting.ActivationError;
-import com.example.courierdevelopmenttesting.Utility;
 
 public class Testing extends AppCompatActivity {
 

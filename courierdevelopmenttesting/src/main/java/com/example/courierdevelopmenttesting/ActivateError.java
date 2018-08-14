@@ -1,6 +1,6 @@
 package com.example.courierdevelopmenttesting;
 
-public enum ActivationError {
+public enum ActivateError {
     MISSING_PARAMETERS,
     NETWORK_ERROR,
     PERMISSION_DENIED

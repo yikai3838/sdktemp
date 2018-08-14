@@ -12,10 +12,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c948c00-3c14-4b44-8dab-277e481df66c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetPaymentRecordCallback.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetPaymentRecordError.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetSupportedMobileWalletCallback.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetSupportedMobileWalletError.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/PaymentRecord.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ReceivePayment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/SupportedMobileWallet.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/Testing.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/Testing.java" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/debug/arm64-v8a/android_gradle_build.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/debug/arm64-v8a/android_gradle_build_mini.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/debug/arm64-v8a/ndkBuild_build_command.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/debug/arm64-v8a/ndkBuild_build_output.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/android_gradle_build.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/android_gradle_build_mini.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/ndkBuild_build_command.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/ndkBuild_build_output.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/release/arm64-v8a/android_gradle_build.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/release/arm64-v8a/android_gradle_build_mini.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/release/arm64-v8a/ndkBuild_build_command.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/release/arm64-v8a/ndkBuild_build_output.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/release/armeabi-v7a/android_gradle_build.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/release/armeabi-v7a/android_gradle_build_mini.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/release/armeabi-v7a/ndkBuild_build_command.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/.externalNativeBuild/ndkBuild/release/armeabi-v7a/ndkBuild_build_output.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/build.gradle" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/courierdevelopmenttesting.iml" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/courierdevelopmenttesting.iml" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/native-lib.cpp" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/native-lib.cpp" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.cpp" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.cpp" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.h" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.h" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivationCallback.java" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivateCallback.java" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivationError.java" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivateError.java" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/HelloWorld.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Utility.java" afterPath="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Activation.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,28 +71,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="382">
+              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utility.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Utility.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="66" column="10" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
+            <state relative-caret-position="450">
+              <caret line="30" column="77" lean-forward="true" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#896#897#0" expanded="true" />
-                <element signature="e#939#940#0" expanded="true" />
+                <element signature="e#846#1040#0" expanded="true" />
+                <element signature="e#1039#1040#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActivateCallback.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivateCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="36" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Activation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Activation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="native-lib.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/native-lib.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utility.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-661">
+              <caret line="710" column="30" lean-forward="false" selection-start-line="710" selection-start-column="19" selection-end-line="710" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utility.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,17 +151,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
         <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>onLoadResource</find>
-      <find>curl</find>
-      <find>APP</find>
-      <find>data</find>
-      <find>data-section</find>
       <find>generateString</find>
       <find>isCalibrated</find>
       <find>isCalib</find>
@@ -93,17 +170,24 @@
       <find>&quot;d&quot;</find>
       <find>15</find>
       <find>checkPermission</find>
-      <find>registerDev</find>
-      <find>activate</find>
-      <find>isActivated</find>
       <find>activate(</find>
       <find>getSdkToken</find>
       <find>registerDev(</find>
       <find>generateString(1</find>
       <find>genera</find>
       <find>appId</find>
-      <find>getAppId</find>
       <find>generateString(</find>
+      <find>hidden</find>
+      <find>getAppId</find>
+      <find>packageName</find>
+      <find>native_</find>
+      <find>native_activate</find>
+      <find>error</find>
+      <find>isActivated</find>
+      <find>nisac</find>
+      <find>registerDev</find>
+      <find>activate</find>
+      <find>nActivate</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -3156,20 +3240,22 @@
         <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/HelloWorld.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/Android.mk" />
-        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivationCallback.java" />
         <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivationError.java" />
-        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.h" />
-        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/native-lib.cpp" />
-        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Utility.java" />
-        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.cpp" />
         <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/com_aimazing_aimazinglib.h" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_testing.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/Testing.java" />
         <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/Application.mk" />
+        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.h" />
+        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Utility.java" />
+        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivationCallback.java" />
+        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetPaymentRecordCallback.java" />
+        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.cpp" />
         <option value="$PROJECT_DIR$/courierdevelopmenttesting/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/Testing.java" />
+        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Activation.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/MainActivity.java" />
+        <option value="$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/native-lib.cpp" />
       </list>
     </option>
   </component>
@@ -3179,7 +3265,9 @@
     <option name="width" value="1280" />
     <option name="height" value="1057" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -3252,12 +3340,6 @@
               <item name="SDKDevelopmentTesting" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDKDevelopmentTesting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="courierdevelopmenttesting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDKDevelopmentTesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDKDevelopmentTesting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="courierdevelopmenttesting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SDKDevelopmentTesting" type="b2602c69:ProjectViewProjectNode" />
@@ -3532,6 +3614,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1280" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3541,7 +3624,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3549,7 +3632,8 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25040388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26715177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17671518" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3562,7 +3646,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -3570,12 +3653,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.cpp</url>
-          <line>649</line>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -3589,17 +3666,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Utility.java">
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Activation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="49" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3673,14 +3744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivationCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
@@ -3689,64 +3752,6 @@
         <state relative-caret-position="45">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="78" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivationError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/native-lib.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6562">
-          <caret line="185" column="42" lean-forward="false" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/com_aimazing_aimazinglib.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/Testing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="135" column="7" lean-forward="false" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3791,27 +3796,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/ndk-bundle/build/core/init.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="535" column="0" lean-forward="false" selection-start-line="535" selection-start-column="0" selection-end-line="535" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/NTL/ctools.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="543" column="11" lean-forward="true" selection-start-line="543" selection-start-column="11" selection-end-line="543" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/tableGenerator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1059#1247#0" expanded="false" />
-            <element signature="e#1246#1247#0" expanded="false" />
-            <element signature="e#1359#1922#0" expanded="false" />
-            <element signature="e#1605#1606#0" expanded="false" />
-            <element signature="e#1692#1693#0" expanded="false" />
-            <element signature="e#1921#1922#0" expanded="false" />
-            <element signature="e#1977#1978#0" expanded="false" />
-            <element signature="e#2009#2010#0" expanded="false" />
+            <element signature="e#0#27#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/Android.mk">
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetSupportedMobileWalletError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetSupportedMobileWalletCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/SupportedMobileWallet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivateError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ReceivePayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/PaymentRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetPaymentRecordError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/GetPaymentRecordCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/Testing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -3824,40 +3918,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="382">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Utility.java">
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="66" column="10" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
+        <state relative-caret-position="60">
+          <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/utility.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-661">
+          <caret line="710" column="30" lean-forward="false" selection-start-line="710" selection-start-column="19" selection-end-line="710" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/com_aimazing_aimazinglib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/Android.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/ActivateCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ak/sdkdevelopmenttesting/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="77" lean-forward="true" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#846#1040#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/ndk-bundle/build/core/init.mk">
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/java/com/example/courierdevelopmenttesting/Activation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="535" column="0" lean-forward="false" selection-start-line="535" selection-start-column="0" selection-end-line="535" selection-end-column="0" />
+        <state relative-caret-position="720">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/build.gradle">
+    <entry file="file://$PROJECT_DIR$/courierdevelopmenttesting/src/main/cpp/native-lib.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        <state relative-caret-position="270">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding />
         </state>
       </provider>

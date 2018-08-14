@@ -3,7 +3,7 @@
 using namespace std;
 
 #define NELEM(x) ((int) (sizeof(x) / sizeof((x)[0])))
-#define JNIREG_UTILITY_CLASS "com/aimazing/aimazinglib/Utility"
+#define JNIREG_ACTIVATION_CLASS "com/example/courierdevelopmenttesting/Activation"
 
 // ============= JNI Interface ================
 jboolean activate(JNIEnv *env, jobject obj, jstring userId);
@@ -15,8 +15,8 @@ jstring getUserId(JNIEnv *env, jobject obj);
 
 // Binding Methods, hiding functions' name in java side
 static JNINativeMethod u_method_table[] = {
-        { "native_activate", "(Ljava/lang/String;Z)Z", (void*)activate },
-        { "native_isActivated", "()Z", (void*)isActivated },
+        { "nActivate", "(Ljava/lang/String;)V", (void*)activate },
+        { "nIsActivated", "()Z", (void*)isActivated }
 };
 
 // Register Native Method to Java
@@ -39,7 +39,7 @@ static jint registerNativeMethods(JNIEnv* env, const char* className,
 
 
 void register_ndk_load(JNIEnv *env) {
-    registerNativeMethods(env, JNIREG_UTILITY_CLASS, u_method_table, NELEM(u_method_table));
+    registerNativeMethods(env, JNIREG_ACTIVATION_CLASS, u_method_table, NELEM(u_method_table));
 }
 
 
@@ -58,12 +58,12 @@ JNIEXPORT jint JNI_OnLoad(JavaVM* vm, void* reserved) {
     return JNI_VERSION_1_4;
 }
 
-jboolean native_activate(JNIEnv *env, jobject obj, jstring UserId) {
+jboolean activate(JNIEnv *env, jobject obj, jstring UserId) {
     return Utility::activate(env, obj, UserId);
 }
 
 
-jboolean native_isActivated(JNIEnv *env, jobject obj) {
+jboolean isActivated(JNIEnv *env, jobject obj) {
     return (jboolean) Utility::isActivated(env, obj);
 }
 

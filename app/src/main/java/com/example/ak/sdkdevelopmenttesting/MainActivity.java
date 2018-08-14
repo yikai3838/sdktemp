@@ -1,25 +1,19 @@
 package com.example.ak.sdkdevelopmenttesting;
 
-import android.graphics.Bitmap;
-import android.net.http.SslError;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.webkit.SslErrorHandler;
-import android.webkit.WebView;
-import android.webkit.WebViewClient;
 import android.widget.Button;
 
-import com.example.courierdevelopmenttesting.ActivationCallback;
-import com.example.courierdevelopmenttesting.ActivationError;
-import com.example.courierdevelopmenttesting.HelloWorld;
-import com.example.courierdevelopmenttesting.Utility;
+import com.example.courierdevelopmenttesting.ActivateCallback;
+import com.example.courierdevelopmenttesting.Activation;
+import com.example.courierdevelopmenttesting.ActivateError;
 
 public class MainActivity extends AppCompatActivity {
 
 
-    Utility utility;
+    Activation sdkActivation;
 
     Button isActivatedButton, activationButton;
 
@@ -28,13 +22,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_testing);
 
-        utility = new Utility(this);
+        sdkActivation = new Activation(this);
 
         isActivatedButton = findViewById(R.id.isActivatedButton);
         isActivatedButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Log.e("isActivatedButton", utility.isActivated() + "");
+                Log.e("isActivatedButton", sdkActivation.isActivated() + "");
             }
         });
 
@@ -42,18 +36,18 @@ public class MainActivity extends AppCompatActivity {
         activationButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                utility.activation("sdkdevtesting", new ActivationCallback() {
-                    @Override
-                    public void onSuccess() {
-                        Log.e("activationButton", "successful");
-                    }
-
-                    @Override
-                    public void onError(ActivationError err) {
-
-                        Log.e("activationButton", "error: " + err);
-                    }
-                });
+//                sdkActivation.activate("sdkdevtesting", new ActivateCallback() {
+//                    @Override
+//                    public void onSuccess() {
+//                        Log.e("activationButton", "successful");
+//                    }
+//
+//                    @Override
+//                    public void onError(ActivateError err) {
+//
+//                        Log.e("activationButton", "error: " + err);
+//                    }
+//                });
             }
         });
 

@@ -7,12 +7,12 @@ import android.content.pm.PackageManager;
 import android.net.ConnectivityManager;
 import android.support.v4.app.ActivityCompat;
 
-public class Utility {
+public class Activation {
 
     private Activity activity;
-    private ActivationCallback activationCallback;
+    private ActivateCallback activationCallback;
 
-    public Utility(Activity _activity) {
+    public Activation(Activity _activity) {
         activity = _activity;
     }
 
@@ -21,39 +21,39 @@ public class Utility {
         return (conMgr.getActiveNetworkInfo() != null);
     }
 
-    public boolean checkPermission() {
+    private boolean checkPermission() {
         return (ActivityCompat.checkSelfPermission(activity, Manifest.permission.INTERNET) == PackageManager.PERMISSION_GRANTED);
     }
 
     public boolean isActivated() {
-        return native_isActivated();
+        return nIsActivated();
     }
 
-    public void activation(final String userId, ActivationCallback _callback) {
+    public void activate(final String userId, ActivateCallback _callback) {
 
         if (userId.isEmpty()) {
-            activationCallback.onError(ActivationError.MISSING_PARAMETERS);
+            activationCallback.onError(ActivateError.MISSING_PARAMETERS);
             return;
         }
 
         if (!checkPermission()) {
-            activationCallback.onError(ActivationError.PERMISSION_DENIED);
+            activationCallback.onError(ActivateError.PERMISSION_DENIED);
             return;
         }
 
         activationCallback = _callback;
 
         if (!isConnectedToNetwork(activity)) {
-            activationCallback.onError(ActivationError.NETWORK_ERROR);
+            activationCallback.onError(ActivateError.NETWORK_ERROR);
             return;
         }
 
-        boolean res = native_activate(userId);
+        boolean res = nActivate(userId);
 
         if (res) {
             activationCallback.onSuccess();
         } else {
-            activationCallback.onError(ActivationError.NETWORK_ERROR);
+            activationCallback.onError(ActivateError.NETWORK_ERROR);
         }
 
     }
@@ -64,6 +64,6 @@ public class Utility {
         System.loadLibrary("native-lib");
     }
 
-    private native boolean native_activate(String userId);
-    private native boolean native_isActivated();
+    private native boolean nActivate(String userId);
+    private native boolean nIsActivated();
 }

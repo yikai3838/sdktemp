@@ -21,14 +21,13 @@ android {
 
 
         ndk {
-            abiFilter "armeabi"
             abiFilter "armeabi-v7a"
             abiFilter "arm64-v8a"
         }
 
         externalNativeBuild {
             ndkBuild {
-                cppFlags "-s -fdata-sections -ffunction-sections -fvisibility=hidden"
+                cppFlags "\"-fdata-sections -ffunction-sections -fvisibility=hidden\""
             }
         }
 
